@@ -1,7 +1,7 @@
-# Diabetes Risk Score Regression – Feature Engineering Assignment
+# Diabetes Risk Score Regression – Feature Engineering 
 
 ##  Overview
-This assignment extends the **scikit-learn diabetes dataset** to explore the impact of **derived features** on regression modeling of the diabetes risk score.  
+This project extends the **scikit-learn diabetes dataset** to explore the impact of **derived features** on regression modeling of the diabetes risk score.  
 The task demonstrates how **feature engineering** (interactions and nonlinear transformations) can improve model predictions compared to using only the original features.
 
 ## Objectives
