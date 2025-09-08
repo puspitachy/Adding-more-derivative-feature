@@ -33,3 +33,5 @@ The engineered model consistently performed better, showing that derived feature
 1. Install requirements:
    ```bash
    pip install scikit-learn pandas numpy
+Open the Jupyter notebook diabetes_regression.ipynb.
+Run all cells to reproduce the results.
